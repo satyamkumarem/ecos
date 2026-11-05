@@ -1,12 +1,8 @@
 <div align="center">
   <p>
     <img alt="ecosbanner" src="https://github.com/user-attachments/assets/c737390b-ddc2-45ff-819c-7b48f5eb85fb"/>
-
   </p>
-  <br />
 </div>
-
-# ECOS (Examination & Coding Operations Suite)
 
 An proctored examination and code practice environment designed to combine test security with computational efficiency.
 
