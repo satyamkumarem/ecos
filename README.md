@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img alt="ecosbanner" src="https://github.com/user-attachments/assets/c737390b-ddc2-45ff-819c-7b48f5eb85fb"/>
+    <img alt="ecosbanner" src="https://github.com/user-attachments/assets/07c46aab-38e8-40d5-81e7-a6cb11aebee6"/>
   </p>
 </div>
 
