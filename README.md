@@ -63,4 +63,4 @@ We are seeking engineers to work on secure execution, sandbox, and evaluation sy
 
 * **Eligibility:** Must be currently enrolled in any academic program or course at **Lovely Professional University (LPU)**.
 * **Role:** Conducting live test passes, testing edge cases across varied network conditions, and attempting benign environment bypasses to evaluate platform stability and security.
-* **Application:** Please submit your details directly to **`career@euome.com`**.
+* **Application:** Please submit your details and contact us using **`contact@euome.com`**.
